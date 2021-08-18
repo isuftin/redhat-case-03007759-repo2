@@ -1,4 +1,4 @@
 ---
+collections: []
 roles:
-  - src: geerlingguy.ntp
-    version: 2.3.0
+  - include: meta/requirements.yml
