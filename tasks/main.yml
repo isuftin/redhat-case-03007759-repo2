@@ -1,0 +1,4 @@
+---
+- name: Echo some output
+  debug:
+    msg: "Hello"
